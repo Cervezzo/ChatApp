@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ChatApp</string>
     <string name="user">user</string>
+    <string name="enviar">Enviar</string>
+    <string name="usuario">usuario</string>
+    <string name="escribe_el_mensaje">Escribe el mensaje</string>
+    <string name="mensaje">mensaje</string>
 </resources>

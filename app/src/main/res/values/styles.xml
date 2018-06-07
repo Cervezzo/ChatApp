@@ -6,13 +6,6 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="black">#000000</item>
-        <item name="white">#FFFFFF</item>
-    </style>
-    <style name="Labels">
-        <item name="android:textStyle">bold</item>
-        <item name="android:textSize">14sp</item>
-        <item name="android:textColor">black</item>
-        <item name="android:padding">4dp</item>
+
     </style>
 </resources>

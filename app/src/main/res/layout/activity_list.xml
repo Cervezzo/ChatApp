@@ -10,8 +10,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
-        app:title="@string/app_name"
-        app:titleTextColor="white" />
+        app:title="@string/app_name">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_add"
+            android:id="@+id/action_button"
+            android:paddingStart="240dp" />
+
+    </android.support.v7.widget.Toolbar>
 
 
     <ListView
